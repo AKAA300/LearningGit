@@ -1,1 +1,5 @@
 ECHO is on.
+I love the definition of line 1
+still learning Git and command line
+
+Writing 3 in line 5
